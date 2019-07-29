@@ -1,4 +1,7 @@
 # Live Data
+
+![Live Data Model](https://image.prntscr.com/image/oUlpvMRXRPiSBMVsTQ3ZPw.png)
+
 ## Advantages 
 - Ensures your UI matches your data state - follows the observer pattern.
 - No memory leaks
